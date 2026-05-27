@@ -37,7 +37,7 @@ The following properties are only available to plugins.
 Theme names cannot be changed once the theme has been submitted to the community directory. You can update your plugin names in the community directory by changing the `name` field in `manifest.json`. If the new name is invalid, the directory delists the plugin until you resolve the problem.
 
 - Make your name short and descriptive.
-- Prefer English names and use [Basic Latin](https://en.wikipedia.org/wiki/Basic_Latin_(Unicode_block)) characters only. No punctuation (except hyphens), emoji, or special characters are allowed. In the future we will offer options for localization.
+- Prefer English names and use [Basic Latin](https://en.wikipedia.org/wiki/Basic_Latin_(Unicode_block)) characters only. No punctuation (except hyphens, plus sign, and parenthesis), emoji, or special characters are allowed. In the future we will offer options for localization.
 - Do not use the name of Obsidian core plugins and features. For example, "Live Preview" or "Bases" are not acceptable plugin names on their own.
 - Do not include the word "Obsidian" or variations like "Obsi-" and "-sidian".
 - Every plugin and theme must have a unique name.
